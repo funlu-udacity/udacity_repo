@@ -1,2 +1,2 @@
 # udacity_repo
-This is a repo for Udacity DevOps Engineer nanodegree
+This is a repository to gain familiarity with git and Github.
